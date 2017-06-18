@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTBridge.m \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/Djordje/Projects/books/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Djordje/Projects/books/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Djordje/Projects/books/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTReloadCommand.h \
+  /Users/Djordje/Projects/books/node_modules/react-native/React/Base/RCTUtils.h
